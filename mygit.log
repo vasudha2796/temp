@@ -1,0 +1,388 @@
+commit 4f3890ca0b750ee6b2ebb5f3f13929e894177557
+Author: matx17 <matx17@student.bth.se>
+Date:   Wed Nov 13 20:46:29 2019 +0100
+
+    final changes made
+
+commit 4260354e703eaea060c046b1c101056a109c35a7
+Author: roopsai <roopsai.work@gmail.com>
+Date:   Mon Nov 11 20:49:43 2019 +0100
+
+    Changes a little
+
+commit d8c5f279ba47de22a3179cbba109d0df1ec77fa5
+Merge: b02ea20 41972aa
+Author: roopsai <roopsai.work@gmail.com>
+Date:   Sat Nov 9 19:54:54 2019 +0100
+
+    Merge branch 'master' of host-2.nplab.bth.se:kiranreddy/track-a-mac
+
+commit b02ea206dc352129389bfb5176d4ab807ca333ae
+Author: roopsai <roopsai.work@gmail.com>
+Date:   Sat Nov 9 19:54:35 2019 +0100
+
+    Modified corrections to database
+
+commit 41972aad5e1f0b4c656bb07584fe356548fa95ce
+Author: Roop Sai <surp17@student.bth.se>
+Date:   Sat Nov 9 18:16:49 2019 +0000
+
+    Delete .db.py.swp
+
+commit 73a5bf4df1e50da6d5f5e3d3cd52b90f5ae1b18b
+Author: Roop Sai <surp17@student.bth.se>
+Date:   Sat Nov 9 18:16:35 2019 +0000
+
+    Delete .backend.py.swp
+
+commit f6a40d76f8b2ce2d07f53ad4c9e5e927930ae21b
+Author: Roop Sai <surp17@student.bth.se>
+Date:   Sat Nov 9 18:16:25 2019 +0000
+
+    Delete .backend.py.swo
+
+commit dfe6ecbe03fc4caf2742c178966ada707154b696
+Author: Roop Sai <surp17@student.bth.se>
+Date:   Sat Nov 9 18:16:17 2019 +0000
+
+    Delete .backend.py.swn
+
+commit 3a452747da7c4c25321c27879dfe9008d2ce578e
+Author: Roop Sai <surp17@student.bth.se>
+Date:   Sat Nov 9 18:16:09 2019 +0000
+
+    Delete .backend.py.swm
+
+commit 3477e9d247a5d48c56fb1e68a0b47c330af15c0b
+Author: roopsai <roopsai.work@gmail.com>
+Date:   Sat Nov 9 19:13:29 2019 +0100
+
+    Remove .x.groupy
+
+commit fb52326562c5d31b5d85812b722c8a158e09cb16
+Author: roopsai <roopsai.work@gmail.com>
+Date:   Sat Nov 9 19:12:58 2019 +0100
+
+    Added new code and changes to be done to probe time display
+
+commit 85251f81e796f95a51a3e58e865d50fa42787f37
+Author: roopsai <roopsai.work@gmail.com>
+Date:   Sat Nov 9 17:15:57 2019 +0100
+
+    list.sh added
+
+commit cb5debcb6f2239820c80c04ce7d761564eec7bee
+Merge: c7087c3 93612f7
+Author: roopsai <roopsai.work@gmail.com>
+Date:   Sat Nov 9 17:05:49 2019 +0100
+
+    db removed temporarily
+
+commit c7087c3f567a768e0600428e6537c41155e9b7ef
+Author: roopsai <roopsai.work@gmail.com>
+Date:   Sat Nov 9 17:04:54 2019 +0100
+
+    Pull the changes!
+
+commit 93612f75b6bec58dee7ad4f31589791b9d3d2e13
+Merge: c51ca1e 4602ee4
+Author: matx17 <matx17@student.bth.se>
+Date:   Fri Nov 8 23:04:22 2019 +0100
+
+    changes made
+
+commit c51ca1e1c8ef320539802e4d1137ff58243164c6
+Author: matx17 <matx17@student.bth.se>
+Date:   Fri Nov 8 22:58:45 2019 +0100
+
+    changes
+
+commit ffbcb7ee4de503a764bb548a4edea954170d2d23
+Author: matx17 <matx17@student.bth.se>
+Date:   Fri Nov 8 22:55:16 2019 +0100
+
+    define function for database
+
+commit 4602ee4d0d8831515ef5e79362c8b901a2c3c4a4
+Author: roopsai <surp17@student.bth.se>
+Date:   Sun Oct 27 22:17:41 2019 +0100
+
+    Added log file
+
+commit 6fa2a97224a844961979c2b60a26f513570a5398
+Author: roopsai <surp17@student.bth.se>
+Date:   Sun Oct 27 22:16:13 2019 +0100
+
+    Removed backend.py
+
+commit ce841b6c56f866f0411fdb66e6df0a2aaac1f572
+Merge: 5768a16 e5ec079
+Author: roopsai <surp17@student.bth.se>
+Date:   Sun Oct 27 22:13:41 2019 +0100
+
+    Merge branch 'master' of https://host-2.nplab.bth.se/kiranreddy/track-a-mac
+
+commit 5768a16b701949871303e99c50d74b84a0f7ee5e
+Author: roopsai <surp17@student.bth.se>
+Date:   Sun Oct 27 22:13:15 2019 +0100
+
+    Removed some files, changed permissions of backend
+
+commit e5ec0792f5f931313b88590211cbe54db68d1e32
+Author: matx17 <matx17@student.bth.se>
+Date:   Sun Oct 27 15:52:42 2019 +0100
+
+    final changes made
+
+commit 43e78c8983976b93cd76d838fa9347d98b0d1c94
+Author: matx17 <matx17@student.bth.se>
+Date:   Sun Oct 27 00:32:00 2019 +0200
+
+    chabged
+
+commit f77d2723a427708e04194aef268e6f36d1751fae
+Merge: bc98d8e 308da36
+Author: matx17 <matx17@student.bth.se>
+Date:   Sat Oct 26 23:31:05 2019 +0200
+
+    change
+
+commit bc98d8e34542883865da77894d727cb11be237a2
+Author: matx17 <matx17@student.bth.se>
+Date:   Sat Oct 26 23:28:30 2019 +0200
+
+    changed
+
+commit 308da361de21d84160dbf0dc17b5a3e9e07e791e
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 26 23:26:23 2019 +0200
+
+    Config changed
+
+commit 71724abc33b5a730cd2b964d65ac1fcf5098ad5c
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 26 23:24:16 2019 +0200
+
+    Config changed
+
+commit 1b57843f1ed2bb5d912285f065b23c0a673bf475
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 26 23:23:17 2019 +0200
+
+    Removed id parameter in list
+
+commit 829c8fad041901f9e6f2c8ce8569f8d545894bfa
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 26 22:37:46 2019 +0200
+
+    No new changes
+
+commit b72cbaf6379ba34e154650159622353ab8b564bf
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 26 22:30:52 2019 +0200
+
+    db data added
+
+commit 78da68a78dffcf2ef442c3dada4babad662f99af
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 26 21:45:58 2019 +0200
+
+    Little changes
+
+commit 79fb1b413d46af560d6f49baf6ecdd1206d3296c
+Merge: e6b662c f804ab8
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 26 06:27:32 2019 +0200
+
+    Little Changes required in frontend
+
+commit e6b662c453b44f48738f211e756077e06fec06ac
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 26 06:21:52 2019 +0200
+
+    Backend database problem fixed!
+
+commit 808c3f133e9075d4786ea117c79fab75396e0564
+Merge: e66e531 a79d271
+Author: roopsai <surp17@student.bth.se>
+Date:   Thu Oct 24 00:36:32 2019 +0200
+
+    Merge branch 'backend'
+
+commit a79d2714e3c8f4f5c16a34d5aecbc5e38616691f
+Author: roopsai <surp17@student.bth.se>
+Date:   Thu Oct 24 00:35:50 2019 +0200
+
+    Changed addDevices.sh
+
+commit fdc58c08625cdecd73529c881f19fde40c284645
+Author: roopsai <surp17@student.bth.se>
+Date:   Thu Oct 24 00:32:57 2019 +0200
+
+    Delete global DB variable
+
+commit f804ab82619a97229df99496e7f845dec212c5de
+Author: Rohit <mallem422@gmail.com>
+Date:   Wed Oct 23 13:42:29 2019 +0200
+
+    final code
+
+commit 7749a33d882e887743ce263ce1ecfd1ad350973a
+Merge: 621d34c 3eafd19
+Author: saikiranreddyyarava <saikiranreddy@gmail.com>
+Date:   Tue Oct 22 22:42:52 2019 +0000
+
+    Merge branch 'backend' into 'master'
+    
+    Initial Commit to backend
+    
+    See merge request kiranreddy/track-a-mac!1
+
+commit 621d34cf16fba869adf91b3ccaa9eebd5202e9aa
+Author: saikiranreddyyarava <kiranreddyyarava@gmail.com>
+Date:   Wed Oct 23 00:40:42 2019 +0200
+
+    Front-end
+
+commit ccc623ce224e74c3d6b215f182f68045a1666c11
+Author: roopsai <surp17@student.bth.se>
+Date:   Wed Oct 23 00:20:44 2019 +0200
+
+    db.py deleted
+
+commit 17464e79701864c9221f22ce6fb3fc297b1fa232
+Merge: 8398c13 d28e239
+Author: roopsai <surp17@student.bth.se>
+Date:   Wed Oct 23 00:16:18 2019 +0200
+
+    Merge branch 'backend' of https://host-2.nplab.bth.se/kiranreddy/track-a-mac into backend
+
+commit 8398c136647d110e210cd2c7f01cc2765e3edb8a
+Author: roopsai <surp17@student.bth.se>
+Date:   Wed Oct 23 00:15:55 2019 +0200
+
+    Added writing access to backend
+
+commit c752f8fd335bddeb5d93024a9c94ba590d4ac550
+Author: saikiranreddyyarava <kiranreddyyarava@gmail.com>
+Date:   Wed Oct 23 00:12:16 2019 +0200
+
+    front-end
+
+commit d28e2398f1e3058af9eb0cbe7b1825c9a189ca78
+Merge: 105e85b e889cca
+Author: matx17 <matx17@student.bth.se>
+Date:   Tue Oct 22 23:54:03 2019 +0200
+
+    Merge branch 'backend' of https://host-2.nplab.bth.se/kiranreddy/track-a-mac into backend
+
+commit 105e85be4be18055df2d7f8f91e012959ec0aac8
+Merge: 2bf9666 0eeb28a
+Author: matx17 <matx17@student.bth.se>
+Date:   Tue Oct 22 23:52:41 2019 +0200
+
+    final changes
+
+commit e889ccab1e0ed0ba2a649e107cb0b026392197c3
+Author: roopsai <surp17@student.bth.se>
+Date:   Tue Oct 22 23:48:51 2019 +0200
+
+    Changed the code receive data from db
+
+commit 2bf96661a3abc4cc7770a49a9444cd4a46775915
+Author: matx17 <matx17@student.bth.se>
+Date:   Tue Oct 22 23:26:43 2019 +0200
+
+     inital Changes
+
+commit 0eeb28a1ce23b019ba0226e95b5783e083eee380
+Author: roopsai <surp17@student.bth.se>
+Date:   Tue Oct 22 23:23:43 2019 +0200
+
+    Adds devices
+
+commit 2cc81a08979f1773f6244af5eb41bee4a3b7e11d
+Author: roopsai <surp17@student.bth.se>
+Date:   Tue Oct 22 23:03:43 2019 +0200
+
+    Adds required devices
+
+commit d8ecf3f8a9d4000b1a4cb0672eff217379c1c8d8
+Merge: 389b972 2b3924e
+Author: matx17 <matx17@student.bth.se>
+Date:   Tue Oct 22 22:43:36 2019 +0200
+
+    Merge branch 'master' of https://host-2.nplab.bth.se/kiranreddy/track-a-mac into backend
+
+commit 45eace76366390bc3dbb775e2848a0ff7bd6c12b
+Merge: 99bd27b 2b3924e
+Author: roopsai <surp17@student.bth.se>
+Date:   Mon Oct 21 21:37:10 2019 +0200
+
+    Changed!
+
+commit 99bd27b53cbc0120af74038cecfe8a93e8d9b914
+Author: roopsai <surp17@student.bth.se>
+Date:   Mon Oct 21 21:35:20 2019 +0200
+
+    Changed!
+
+commit 2b3924e7789cd6b1cbd0c533dd5e0016c66f7d7f
+Author: saikiranreddyyarava <kiranreddyyarava@gmail.com>
+Date:   Sun Oct 20 23:36:40 2019 +0200
+
+    frontend
+
+commit decd826b7393228a292b194f234e62a8166c5080
+Author: saikiranreddyyarava <kiranreddyyarava@gmail.com>
+Date:   Sun Oct 20 23:34:30 2019 +0200
+
+    frontend
+
+commit a96809cc40af00506beff4e9a1ce0385acb7d162
+Author: saikiranreddyyarava <kiranreddyyarava@gmail.com>
+Date:   Sun Oct 20 23:30:47 2019 +0200
+
+    added tables in conf file
+
+commit 389b972e62f9d93d9d1731b3a88e30ffa4cdbdab
+Author: roopsai <surp17@student.bth.se>
+Date:   Wed Oct 16 01:07:27 2019 +0200
+
+    Adding TODO, FIXME parts, oids dict added
+
+commit a28cd502f02b7ef7e8333bbfdd85c480a50c804f
+Author: roopsai <surp17@student.bth.se>
+Date:   Tue Oct 15 21:28:34 2019 +0200
+
+    It is a creation for duplicate database until frontend comes into picture
+
+commit a214f605b31da02b240b481189e61f6d88ae864d
+Author: roopsai <surp17@student.bth.se>
+Date:   Tue Oct 15 20:50:18 2019 +0200
+
+    Initial Commit
+
+commit 3eafd190aed2d1797c349cf7d6c0027feeface8a
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 12 19:40:50 2019 +0200
+
+    Initial Commit to backend
+
+commit b97017605f421bb62aadb2296639d26f87635983
+Author: roopsai <surp17@student.bth.se>
+Date:   Sat Oct 12 19:23:03 2019 +0200
+
+    Initial Commit to backend
+
+commit e66e531ec9f720b0ee44b9dbf302059f9bfe2568
+Author: saikiranreddyyarava <saikiranreddy@gmail.com>
+Date:   Thu Oct 10 19:57:17 2019 +0200
+
+    firstcommit
+
+commit 10933dd9547432334d4b6275803e1b7d858d8647
+Author: saikiranreddyyarava <saikiranreddy@gmail.com>
+Date:   Thu Oct 10 17:51:03 2019 +0000
+
+    Initial commit
